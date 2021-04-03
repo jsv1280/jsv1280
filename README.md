@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Jairo Salazar 👋
 
 <!--
 **jsv1280/jsv1280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Offimedicas
+- :octocat: System Programmer in [Offimedicas](http://offimedicas.com)

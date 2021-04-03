@@ -1,4 +1,5 @@
-### Hi 👋, I'm a software developer on the way to become a software engineer :rocket:, Engineers create technology to progress as humanity, build tools that contribute in these goal and never stop learning (Platzi reference) :heavy_exclamation_mark: LEAVE YOUR MARK :heavy_exclamation_mark: 
+### Hi 👋, I'm a software developer on the way to become a software engineer :rocket:
+#### Engineers create technology to progress as humanity, build tools that contribute in these goal and never stop learning (Platzi reference) :heavy_exclamation_mark: LEAVE YOUR MARK :heavy_exclamation_mark: 
 
 <!--
 **jsv1280/jsv1280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

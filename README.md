@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - :octocat: System Programmer in [Offimedicas](http://offimedicas.com)
+- 🔭 I’m currently studying at [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) and [UDI](https://web.udi.edu.co/) to become a Software Engineer.
+- 📖 Owner of [The Unemployed Programmer](https://theunemployedprogrammer.com), personal software blog platform to help developers in their daily tasks.
+
+ 
+<a href="https://www.linkedin.com/in/jairo-andres-salazar-vesga-5815761a8/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Jairo Salazar LinkedIn Profile" height="30" width="30">
+</a>

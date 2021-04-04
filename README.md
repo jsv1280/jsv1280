@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - :octocat: System Programmer in [Offimedicas](http://offimedicas.com)
 - 🔭 I’m currently studying at [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) and [UDI](https://web.udi.edu.co/) to become a Software Engineer.
-- 📖 Owner of [The Unemployed Programmer](https://theunemployedprogrammer.com), personal software blog platform to help developers in their daily tasks.
+- 📖 Founder of [The Unemployed Programmer](https://theunemployedprogrammer.com), personal software blog platform to help developers in their daily tasks.
 - 📫 How to reach me: jairosalazar1280@gmail.com
 - 👯 I’m looking to master in software architect
 - 💬 Ask me about PHP, algorithms, and computer science stuff :grinning:

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :octocat: Backend Developer at [Offimedicas](http://offimedicas.com)
+- :octocat: Backend Developer at [Offimedicas](http://offimedicas.com) 🇨🇴
 - 🔭 I’m currently studying at [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) and [UDI](https://web.udi.edu.co/) to become a Software Engineer.
 - 📖 Founder of [The Unemployed Programmer](https://theunemployedprogrammer.com), personal software blog platform to help developers in their daily tasks.
 - 📫 How to reach me: jairosalazar1280@gmail.com

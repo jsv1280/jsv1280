@@ -1,5 +1,5 @@
-### Hi 👋, I'm a software developer on the way to become a software engineer :rocket:
-#### Engineers create technology to progress as humanity, build tools that contribute in these goal and never stop learning (Platzi reference) :heavy_exclamation_mark: LEAVE YOUR MARK :heavy_exclamation_mark: 
+### 👋 Hi, I'm a software developer on the way to become a software engineer:rocket:
+#### Engineers create technology to improve humankind, build tools that contribute to this goal and never stop learning:heavy_exclamation_mark: 
 
 <!--
 **jsv1280/jsv1280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-- :octocat: <img width="21px" height="21px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/274/flag-colombia_1f1e8-1f1f4.png" title="Colombia Flag"/> Backend Developer at [Offimedicas](http://offimedicas.com) 
-- 🔭 I’m currently studying at [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) and [UDI](https://web.udi.edu.co/) to become a Software Engineer.
 - 📖 Founder of [The Unemployed Programmer](https://theunemployedprogrammer.com), personal software blog platform to help developers in their daily tasks.
 - 📖 Currently, writing in https://dev.to/jsv1280
-- 📫 How to reach me: jairosalazar1280@gmail.com
 - 👯 I’m looking to master in software architect
-- 💬 Ask me about PHP, algorithms, and computer science stuff :grinning:
+-->
+
+- :octocat: <img width="21px" height="21px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/274/flag-colombia_1f1e8-1f1f4.png" title="Colombia Flag"/> Backend Semi-Senior Developer at [Summa Solutions](https://www.summasolutions.net/) 
+- 🔭 I’m currently studying at [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) and [UDI](https://web.udi.edu.co/) to become a Software Engineer.
+- 📫 How to reach me: jairosalazar1280@gmail.com
+- 💬 Ask me about computer science stuff :grinning:
 
  ### Also reach me in
 <a href="https://www.linkedin.com/in/jairo-andres-salazar-vesga-5815761a8/">

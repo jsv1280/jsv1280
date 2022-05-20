@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - :octocat: <img width="21px" height="21px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/274/flag-colombia_1f1e8-1f1f4.png" title="Colombia Flag"/> Backend Semi-Senior Developer at [Summa Solutions](https://www.summasolutions.net/) 
-- 🔭 I’m currently studying at [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) and [UDI](https://web.udi.edu.co/) to become a Software Engineer.
+- 🔭 I’m currently studying at [UDI](https://web.udi.edu.co/) to become a Software Engineer.
 - 📫 How to reach me: jairosalazar1280@gmail.com
 - 💬 Ask me about computer science stuff :grinning:
 

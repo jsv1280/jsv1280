@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to master in software architect
 -->
 
-- :octocat: <img width="21px" height="21px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/274/flag-colombia_1f1e8-1f1f4.png" title="Colombia Flag"/> Backend Semi-Senior Developer at [Summa Solutions](https://www.summasolutions.net/) 
-- 🔭 I’m currently studying at [UDI](https://web.udi.edu.co/) to become a Software Engineer.
+- :octocat:  Backend Semi-Senior Developer at [Summa Solutions](https://www.summasolutions.net/) 
+- 🔭 System Engineer from [UDI](https://web.udi.edu.co/).
 - 📫 How to reach me: jairosalazar1280@gmail.com
-- 💬 Ask me about computer science stuff :grinning:
 
  ### Also reach me in
 <a href="https://www.linkedin.com/in/jairo-andres-salazar-vesga-5815761a8/">

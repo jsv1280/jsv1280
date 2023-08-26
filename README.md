@@ -1,5 +1,3 @@
-### 👋 Hi, I'm a software developer on the way to become a software engineer:rocket:
-#### Engineers create technology to improve humankind, build tools that contribute to this goal and never stop learning:heavy_exclamation_mark: 
 
 <!--
 **jsv1280/jsv1280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

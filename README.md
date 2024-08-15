@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to master in software architect
 -->
 
-- :octocat:  Backend Semi-Senior Developer at [Summa Solutions](https://www.summasolutions.net/) 
+- :octocat:  Full Stack Developer Engineer at [Infracommerce LATAM](https://www.infracommerce.lat) 
 - 🔭 System Engineer from [UDI](https://web.udi.edu.co/).
 - 📫 How to reach me: jairosalazar1280@gmail.com
 
